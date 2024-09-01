@@ -8,8 +8,8 @@ programa {
     escreva("\nDigite o valor: " )
     leia(valor)
 
-    se(valor >= 24 e valor <= 42){escreva("Está dentro deste intervalo!")
-    }senao(escreva("Está fora deste intervalo!"))
+    se(valor >= 24 e valor <= 42){escreva("EstÃ¡ dentro deste intervalo!")
+    }senao(escreva("EstÃ¡ fora deste intervalo!"))
     }
   }
 }
