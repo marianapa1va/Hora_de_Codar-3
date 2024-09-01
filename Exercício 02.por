@@ -15,7 +15,7 @@ programa {
 
 }
   limpa()
-  escreva("Explos„o")
+  escreva("Explos√£o")
   }
     
   }
