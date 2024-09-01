@@ -11,10 +11,10 @@ programa {
     escreva("Informe o valor 2: ")
     leia(v2)
 
-    se(v2<=0){escreva("Valor inválido!")
+    se(v2<=0){escreva("Valor invÃ¡lido!")
     }senao(v2>=0)
 
-    escreva("Os valores divididos é igual a: " , v1/v2)
+    escreva("Os valores divididos Ã© igual a: " , v1/v2)
 
     
   }
